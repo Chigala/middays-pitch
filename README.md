@@ -1,6 +1,6 @@
 # Midday.ai Viral Pitch Deck Template
 
-This repository contains a Next.js project that contains code from [midday.ai](https://github.com/midday-ai/midday) and serves as a template for building their viral pitch deck [midday](http://midday.ai/pitch).
+This repository contains a Next.js project that contains code from [midday.ai](https://github.com/midday-ai/midday) that serves as a template for building your own pitch deck.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
